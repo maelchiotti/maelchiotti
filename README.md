@@ -7,8 +7,8 @@
     </a>
 </div>
 
-# Welcome, I'm Maël Chiotti :wave:
+# Welcome 👋
 
-## About me
+## ℹ️ About me
 
 Student in computer science. Vice-president of [Studio Rv & Co](https://rvandco.fr/).
