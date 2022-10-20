@@ -18,7 +18,7 @@
 
 # Welcome!
 
-I am Maël Chiotti, a student in computer science and the cice-president of @StudioRvAndCo.
+I am Maël Chiotti, a student in computer science and the vice-president of [Studio Rv & Co](https://rvandco.fr/).
 
 </div>
 
