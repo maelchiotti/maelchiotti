@@ -20,7 +20,7 @@
 - I worked on algorithm developement and data processing at the [LIPM laboratory of the INRAE](https://www.inrae.fr/).
 
 ## :keyboard: Programming languages
-
+<div>
 <img src="icons/java.svg" width="40px" height="40px" alt="Logo Java">
 <img src="icons/c.svg" width="40px" height="40px" alt="Logo C">
 <img src="icons/python.svg" width="40px" height="40px" alt="Logo Python">
@@ -31,6 +31,7 @@
 <img src="icons/mysql.svg" width="40px" height="40px" alt="Logo MySQL">
 <img src="icons/ocaml.svg" width="40px" height="40px" alt="Logo OCaml">
 <img src="icons/bash.svg" width="40px" height="40px" alt="Logo Bash">
+</div>
 
 ## :wrench: Technologies
 
