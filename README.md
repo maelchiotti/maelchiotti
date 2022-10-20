@@ -11,8 +11,6 @@
 
 # Welcome
 
-I'm Maël Chiotti!
-
 </div>
 
 ## :mortar_board: Education
