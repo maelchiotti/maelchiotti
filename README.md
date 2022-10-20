@@ -1,4 +1,4 @@
-<div id="badges">
+<div align="center">
     <a href="https://github.com/maelchiotti/">
         <img src="https://img.shields.io/badge/GitHub-maelchiotti-171515?logo=github&logoColor=white&style=for-the-badge" alt="Badge GitHub">
     </a>
@@ -7,7 +7,13 @@
     </a>
 </div>
 
-# :wave: Welcome
+<div align="center">
+
+# Welcome
+
+I'm Maël Chiotti!
+
+</div>
 
 ## :mortar_board: Education
 
@@ -77,5 +83,5 @@
 
 :art: Arts:
 
-- Amateur filmmaking :movie_camera: :clapper:
+- Amateur filmmaking with [Studio Rv & Co](https://rvandco.fr/) :movie_camera: :clapper:
 - Reading novels and writing short stories :book: :writing_hand:
