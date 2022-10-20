@@ -1,9 +1,16 @@
 <div align="center">
     <a href="https://github.com/maelchiotti/">
-        <img src="https://img.shields.io/badge/GitHub-maelchiotti-171515?logo=github&logoColor=white&style=for-the-badge" alt="Badge GitHub">
+        <img src="https://img.shields.io/badge/GitHub-maelchiotti-161b22?logo=github&logoColor=white&style=for-the-badge" alt="Badge GitHub">
     </a>
     <a href="https://www.linkedin.com/in/maelchiotti/">
         <img src="https://img.shields.io/badge/LinkedIn-maelchiotti-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Badge LinkedIn">
+    </a>
+    <br /><br />
+    <a href="cv/CV fr.pdf">
+        <img src="https://img.shields.io/badge/CV-Français-d6be9d?labelColor=122d42&style=for-the-badge" alt="CV français">
+    </a>
+    <a href="cv/CV en.pdf">
+        <img src="https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge" alt="CV français">
     </a>
 </div>
 
