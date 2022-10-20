@@ -18,6 +18,8 @@
 
 # Welcome!
 
+I am Maël Chiotti, a student in computer science and the cice-president of @StudioRvAndCo.
+
 </div>
 
 ## :mortar_board: Education
