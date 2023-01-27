@@ -61,7 +61,7 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
     <img src="icons/jhipster.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo JHipster">
 </div>
 
-## :desktop: IDEs
+## :computer: IDEs
 
 <div>
     <img src="icons/visual_studio_code.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Visual Studio Code">
