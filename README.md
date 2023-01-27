@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# Welcome!
+# Welcome
 
 I am Maël Chiotti, a student in computer science and the vice-president of [Studio Rv & Co](https://rvandco.fr/).
 
@@ -55,13 +55,18 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
     <img src="icons/docker.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Docker">
 </div>
 
-## :computer: Software
+## :computer: IDEs
 
 <div>
     <img src="icons/visual_studio_code.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Visual Studio Code">
     <img src="icons/intellij_idea.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo IntelliJ IDEA">
     <img src="icons/eclipse.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Eclipse">
     <img src="icons/android_studio.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Android Studio">
+</div>
+
+## :toolbox: Tools
+
+<div>
     <img src="icons/github.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo GitHub">
     <img src="icons/gitlab.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo GitLab">
     <img src="icons/microsoft_office.svg" width="40px" style="margin:10px 10px 0px 0px" height="40px" alt="Logo Microsoft Office">
