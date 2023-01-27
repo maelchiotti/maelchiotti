@@ -32,18 +32,22 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 - I worked on the developement of an internal software at the [LERTI](https://www.lerti.fr/).
 - I worked on algorithm developement and data processing at the [LIPM laboratory of the INRAE](https://www.inrae.fr/).
 
+## :dart: Projects
+
+- [GTagger](https://github.com/maelchiotti/GTagger) is a python tool that adds lyrics from Genius to .flac and .mp3 files.
+
 ## :keyboard: Programming languages
 
 <div>
+    <img src="icons/python.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Python">
     <img src="icons/java.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Java">
     <img src="icons/c.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo C">
-    <img src="icons/python.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Python">
-    <img src="icons/php.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo PHP">
+    <img src="icons/c_sharp.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo C#">
+    <img src="icons/dart.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Dart">
+    <img src="icons/javascript.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo JavaScript">
     <img src="icons/html.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo HTML">
     <img src="icons/css.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo CSS">
-    <img src="icons/javascript.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo JavaScript">
-    <img src="icons/mysql.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo MySQL">
-    <img src="icons/ocaml.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo OCaml">
+    <img src="icons/php.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo PHP">
     <img src="icons/bash.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Bash">
 </div>
 
@@ -51,17 +55,21 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 
 <div>
     <img src="icons/qt.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Qt">
+    <img src="icons/flutter.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Flutter">
     <img src="icons/react.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo React">
     <img src="icons/docker.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Docker">
+    <img src="icons/jhipster.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo JHipster">
 </div>
 
-## :computer: IDEs
+## :desktop: IDEs
 
 <div>
     <img src="icons/visual_studio_code.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Visual Studio Code">
     <img src="icons/intellij_idea.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo IntelliJ IDEA">
-    <img src="icons/eclipse.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Eclipse">
+    <img src="icons/pycharm.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo PyCharm">
     <img src="icons/android_studio.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Android Studio">
+    <img src="icons/eclipse.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Eclipse">
+    <img src="icons/kdevelop.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo KDevelop">
 </div>
 
 ## :toolbox: Tools
@@ -69,6 +77,7 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 <div>
     <img src="icons/github.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo GitHub">
     <img src="icons/gitlab.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo GitLab">
+    <img src="icons/figma.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Figma">
     <img src="icons/microsoft_office.svg" width="40px" style="margin:10px 10px 0px 0px" height="40px" alt="Logo Microsoft Office">
     <img src="icons/adobe.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Adobe">
 </div>
@@ -79,21 +88,21 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 - English: C1
 - Spanish: A2
 
+## :heartbeat: Interests
+
+### :trophy: Sports
+
+- Ultimate frisbee :flying_disc:
+- Hiking :hiking_boot: :mountain_snow:
+- Moutain biking :bike:
+
+### :art: Arts
+
+- Amateur filmmaking with [Studio Rv & Co](https://rvandco.fr/) :movie_camera: :clapper:
+- Reading novels and writing short stories :book: :writing_hand:
+
 ## :bar_chart: Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maelchiotti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maelchiotti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## :heartbeat: Interests
-
-:trophy: Sports:
-
-- Ultimate frisbee :flying_disc:
-- Hiking :hiking_boot: :mountain_snow:
-- Moutain biking :bike: :mountain:
-
-:art: Arts:
-
-- Amateur filmmaking with [Studio Rv & Co](https://rvandco.fr/) :movie_camera: :clapper:
-- Reading novels and writing short stories :book: :writing_hand:
