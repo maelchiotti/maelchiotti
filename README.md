@@ -1,26 +1,10 @@
-<div align="center">
-    <a href="https://github.com/maelchiotti/">
-        <img src="https://img.shields.io/badge/GitHub-maelchiotti-161b22?logo=github&logoColor=white&style=for-the-badge" alt="Badge GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/maelchiotti/">
-        <img src="https://img.shields.io/badge/LinkedIn-maelchiotti-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Badge LinkedIn">
-    </a>
-    <br /><br />
-    <a href="cv/CV fr.pdf">
-        <img src="https://img.shields.io/badge/CV-Français-d6be9d?labelColor=122d42&style=for-the-badge" alt="CV français">
-    </a>
-    <a href="cv/CV en.pdf">
-        <img src="https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge" alt="CV français">
-    </a>
-</div>
+[![GitHub badge](https://img.shields.io/badge/GitHub-maelchiotti-161b22?logo=github&logoColor=white&style=for-the-badge)](https://github.com/maelchiotti)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-maelchiotti-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maelchiotti)
 
-<div align="center">
-
-# Welcome
+[![French CV](https://img.shields.io/badge/CV-Français-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1AKPgTP3fEE2to582pa8UPpQmqTq5cB3q/view)
+[![English CV](https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1ANbqRjlPAwrBU1qYdelrRaM5JEd-UtCi/view)
 
 I am Maël Chiotti, a student in computer science and the vice-president of [Studio Rv & Co](https://rvandco.fr/).
-
-</div>
 
 ## :mortar_board: Education
 
@@ -34,75 +18,71 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 
 ## :dart: Projects
 
-- [GTagger](https://github.com/maelchiotti/GTagger) is a python tool that adds lyrics from Genius to .flac and .mp3 files.
+- [Cinema Project Manager (CPM)](https://github.com/StudioRvAndCo/CPM-frontend) is a tool to efficiently manage the production of a cinema project, developed with other members of the [Studio Rv & Co](https://rvandco.fr/) association.
+- [GTagger](https://github.com/maelchiotti/GTagger) is a python tool that adds lyrics from Genius to `.flac` and `.mp3` files.
 
 ## :keyboard: Programming languages
 
-<div>
-    <img src="icons/python.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Python">
-    <img src="icons/java.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Java">
-    <img src="icons/c.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo C">
-    <img src="icons/c_sharp.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo C#">
-    <img src="icons/dart.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Dart">
-    <img src="icons/javascript.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo JavaScript">
-    <img src="icons/html.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo HTML">
-    <img src="icons/css.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo CSS">
-    <img src="icons/php.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo PHP">
-    <img src="icons/bash.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Bash">
-</div>
+- Dart
+- Python
+- Java
+- C
+- C#
+- JavaScript / TypeScript
+- HTML / CSS
+- PHP
+- Shell
 
 ## :wrench: Technologies
 
-<div>
-    <img src="icons/qt.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Qt">
-    <img src="icons/flutter.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Flutter">
-    <img src="icons/react.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo React">
-    <img src="icons/docker.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Docker">
-    <img src="icons/jhipster.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo JHipster">
-</div>
+- Flutter
+- PyQt
+- ReactNative
+- Angular
+- Docker
+- JHipster
 
 ## :computer: IDEs
 
-<div>
-    <img src="icons/visual_studio_code.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Visual Studio Code">
-    <img src="icons/intellij_idea.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo IntelliJ IDEA">
-    <img src="icons/pycharm.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo PyCharm">
-    <img src="icons/android_studio.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Android Studio">
-    <img src="icons/eclipse.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Eclipse">
-    <img src="icons/kdevelop.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo KDevelop">
-</div>
+- Visual Studio Code
+- Visual Studio
+- Intellij IDEA
+- PyCharm
+- Rider
+- Android Studio
+- Eclipse
+- KDevelop
 
 ## :toolbox: Tools
 
-<div>
-    <img src="icons/github.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo GitHub">
-    <img src="icons/gitlab.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo GitLab">
-    <img src="icons/figma.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Figma">
-    <img src="icons/microsoft_office.svg" width="40px" style="margin:10px 10px 0px 0px" height="40px" alt="Logo Microsoft Office">
-    <img src="icons/adobe.svg" width="40px" height="40px" style="margin:10px 10px 0px 0px" alt="Logo Adobe">
-</div>
+- Git
+- GitHub (releases, pull requests, issues, actions, projects) / GitLab
+- Figma
+- Microsoft Office
+- Adobe Creative Suite
+- Jira / Trello
 
 ## :globe_with_meridians: Languages
 
 - French: native
-- English: C1
+- English: C1 (Linguaskill)
 - Spanish: A2
 
 ## :heartbeat: Interests
 
 ### :trophy: Sports
 
-- Ultimate frisbee :flying_disc:
-- Hiking :hiking_boot: :mountain_snow:
-- Moutain biking :bike:
+- Ultimate frisbee
+- Hiking
+- Moutain biking
 
 ### :art: Arts
 
-- Amateur filmmaking with [Studio Rv & Co](https://rvandco.fr/) :movie_camera: :clapper:
-- Reading novels and writing short stories :book: :writing_hand:
+- Amateur filmmaking with [Studio Rv & Co](https://rvandco.fr/)
+- Reading novels and writing short stories
 
 ## :bar_chart: Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maelchiotti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maelchiotti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maelchiotti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
