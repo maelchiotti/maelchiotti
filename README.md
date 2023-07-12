@@ -45,13 +45,11 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 ## :computer: IDEs
 
 - Visual Studio Code
-- Visual Studio
-- Intellij IDEA
-- PyCharm
-- Rider
 - Android Studio
+- IntelliJ IDEA
+- Rider
+- PyCharm
 - Eclipse
-- KDevelop
 
 ## :toolbox: Tools
 
