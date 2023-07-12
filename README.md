@@ -32,12 +32,11 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 - JavaScript / TypeScript
 - HTML / CSS
 - PHP
-- Shell
 
 ## :wrench: Technologies
 
-Flutter
-
+- Flutter
+- Supabase
 - PyQt
 - Angular
 - React / ReactNative
