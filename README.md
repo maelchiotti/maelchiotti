@@ -13,7 +13,8 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 
 ## :briefcase: Professional experience
 
-- I worked on the developement of an internal software at the [LERTI](https://www.lerti.fr/).
+- I worked on the developement of an internant mobile application, made in Flutter with a .NET API, at [Qim info](https://www.qiminfo.ch/).
+- I worked on the developement of an internal software, made in Python with PyQt, at the [LERTI](https://www.lerti.fr/).
 - I worked on algorithm developement and data processing at the [LIPM laboratory of the INRAE](https://www.inrae.fr/).
 
 ## :dart: Projects
@@ -35,10 +36,11 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 
 ## :wrench: Technologies
 
-- Flutter
+Flutter
+
 - PyQt
-- ReactNative
 - Angular
+- React / ReactNative
 - Docker
 - JHipster
 
@@ -53,12 +55,11 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 
 ## :toolbox: Tools
 
-- Git
-- GitHub (releases, pull requests, issues, actions, projects) / GitLab
+- GitHub / GitLab
 - Figma
 - Microsoft Office
 - Adobe Creative Suite
-- Jira / Trello
+- Jira / Trello / Azure DevOps / GitHub Projects
 
 ## :globe_with_meridians: Languages
 
