@@ -1,8 +1,8 @@
 [![GitHub badge](https://img.shields.io/badge/GitHub-maelchiotti-161b22?logo=github&logoColor=white&style=for-the-badge)](https://github.com/maelchiotti)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-maelchiotti-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maelchiotti)
 
-[![French CV](https://img.shields.io/badge/CV-Français-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1AKPgTP3fEE2to582pa8UPpQmqTq5cB3q/view)
-[![English CV](https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1ANbqRjlPAwrBU1qYdelrRaM5JEd-UtCi/view)
+[![French CV](https://img.shields.io/badge/CV-Français-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1XThRO6gzGCwzFEknXy-nit3VoQb3Svga/view)
+[![English CV](https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1AFSIlm1tWQf63rtPGiflORYhAiB8tLaO/view)
 
 I am Maël Chiotti, a student in computer science and the vice-president of [Studio Rv & Co](https://rvandco.fr/).
 
