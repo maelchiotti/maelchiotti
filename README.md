@@ -20,6 +20,7 @@ I am Maël Chiotti, a student in computer science and the vice-president of [Stu
 ## :dart: Projects
 
 - [Cinema Project Manager (CPM)](https://github.com/StudioRvAndCo/CPM-frontend) is a tool to efficiently manage the production of a cinema project, developed with other members of the [Studio Rv & Co](https://rvandco.fr/) association.
+- [Flutter starter](https://github.com/maelchiotti/flutter_starter) is a ready-to-use Flutter project for Android and iOS.
 - [GTagger](https://github.com/maelchiotti/GTagger) is a python tool that adds lyrics from Genius to `.flac` and `.mp3` files.
 
 ## :keyboard: Programming languages
