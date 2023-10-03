@@ -6,7 +6,7 @@
 [![French CV](https://img.shields.io/badge/CV-Français-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1XThRO6gzGCwzFEknXy-nit3VoQb3Svga/view?usp=sharing)
 [![English CV](https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1AFSIlm1tWQf63rtPGiflORYhAiB8tLaO/view?usp=sharing)
 
-I am Maël Chiotti, a full-stack developer and the vice-president of [Studio Rv & Co](https://rvandco.fr/).
+**I am Maël Chiotti, a full-stack developer and the vice-president of [Studio Rv & Co](https://rvandco.fr/).**
 
 </div>
 
