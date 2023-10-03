@@ -1,3 +1,5 @@
+<div align="center">
+
 [![GitHub badge](https://img.shields.io/badge/GitHub-maelchiotti-161b22?logo=github&logoColor=white&style=for-the-badge)](https://github.com/maelchiotti)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-maelchiotti-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maelchiotti)
 
@@ -5,6 +7,8 @@
 [![English CV](https://img.shields.io/badge/CV-English-d6be9d?labelColor=122d42&style=for-the-badge)](https://drive.google.com/file/d/1AFSIlm1tWQf63rtPGiflORYhAiB8tLaO/view?usp=sharing)
 
 I am Maël Chiotti, a full-stack developer and the vice-president of [Studio Rv & Co](https://rvandco.fr/).
+
+</div>
 
 ## :mortar_board: Education
 
