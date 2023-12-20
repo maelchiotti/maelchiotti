@@ -12,7 +12,7 @@
 
 ## :mortar_board: Education
 
-- I grduated in computer science at [Polytech Grenoble](https://www.polytech-grenoble.fr/).
+- I graduated in computer science at [Polytech Grenoble](https://www.polytech-grenoble.fr/).
 - I have a technical degree in computer science from the [IUT from Toulouse III university](https://iut.univ-tlse3.fr/informatique/).
 
 ## :briefcase: Professional experience
